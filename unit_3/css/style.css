@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	vertical-align: middle;
 	background-size: cover;
-	font-family: Georgia, serif;
+	font-family: "American Typewriter", serif;
 }
 
 h1 {
@@ -17,10 +17,17 @@ h2 {
 	font-weight: 600;
 }
 
+h3 {
+	text-align: left;
+	font-size: 18px;
+	color: #28304c;
+	font-weight: 600;
+}
+
 p {
 	margin-left: 30px;
 	text-align: left;
-	font-size: 18px;
+	font-size: 16px;
 	color: #28304c;
 	font-weight: 400;
 }
@@ -28,7 +35,7 @@ p {
 ul {
 	margin-left: 30px;
 	text-align: left;
-	font-size: 18px;
+	font-size: 16px;
 	color: #28304c;
 	font-weight: 400;
 }
