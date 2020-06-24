@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+	background: url("https://saraturns.github.io/unit_3/images/kitchen.jpg");
+	background-size: cover;
+	font-family: Courier;
+}
+
+h1 {
+	color: white;
+	font-weight: 600;
+}
+
+p {
+	color: white;
+	font-weight: 400;
+}
+
+
+
