@@ -1,19 +1,46 @@
 body {
 	text-align: center;
 	vertical-align: middle;
-	background: url("kitchen2.jpg");
 	background-size: cover;
-	font-family: Courier;
+	font-family: Georgia, serif;
 }
 
 h1 {
-	color: white;
+	font-size: 42px;
+	color: #28304c;
+	font-weight: 600;
+}
+
+h2 {
+	font-size: 24px;
+	color: #28304c;
 	font-weight: 600;
 }
 
 p {
-	color: white;
+	margin-left: 30px;
+	text-align: left;
+	font-size: 18px;
+	color: #28304c;
 	font-weight: 400;
+}
+
+ul {
+	margin-left: 30px;
+	text-align: left;
+	font-size: 18px;
+	color: #28304c;
+	font-weight: 400;
+}
+
+hr {
+	border: 2px solid #28304c;
+	width: 50%;
+}
+
+a {
+	color: pink;
+	text-decoration: none;
 }
 
 
