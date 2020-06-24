@@ -1,6 +1,7 @@
 body {
 	text-align: center;
-	background: url("https://saraturns.github.io/unit_3/images/kitchen.jpg");
+	vertical-align: middle;
+	background: url("kitchen2.jpg");
 	background-size: cover;
 	font-family: Courier;
 }
