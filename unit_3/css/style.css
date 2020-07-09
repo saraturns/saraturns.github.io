@@ -9,21 +9,23 @@ body {
 h1 {
 	font-size: 42px;
 	color: #28304c;
-	font-weight: 600;
-	font-family: Poppins, Arial, sans;
+	font-weight: 1.1em;
+	font-family: Poppins, Arial, Sans;
 }
 
 h2 {
 	font-size: 24px;
 	color: #28304c;
-	font-weight: 600;
+	font-weight: 1em;
+	font-family: Poppins, Arial, Sans;
 }
 
 h3 {
 	text-align: left;
 	font-size: 18px;
 	color: #28304c;
-	font-weight: 600;
+	font-weight: .9em;
+	font-family: Poppins, Arial, Sans;
 }
 
 p {
