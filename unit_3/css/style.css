@@ -36,7 +36,7 @@ p {
 	font-size: 1em;
 	color: #28304c;
 	font-weight: 1em;
-	font-family: Merriweather, Times, Serif;
+	font-family: Merriweather, 'Times New Roman', Serif;
 }
 
 ul {
@@ -45,6 +45,7 @@ ul {
 	font-size: 1em;
 	color: #28304c;
 	font-weight: 1em;
+	font-family: Merriweather, 'Times New Roman', Serif;
 }
 
 hr {
