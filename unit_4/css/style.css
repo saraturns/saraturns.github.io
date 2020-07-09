@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
+body {
+	text-align: center;
+	vertical-align: middle;
+	background-color: #cdd2de;
+	font-size: 16px;
+	line-height: normal;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 3em;
+	color: #28304c;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	line-height: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	color: #28304c;
+	font-weight: normal;
+	font-family: 'Poppins', sans-serif;
+	line-height: 2em;
+}
+
+h3 {
+	text-align: left;
+	font-size: 1.5em;
+	color: #28304c;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+	line-height: 2em;
+}
+
+h4 {
+	text-align: left;
+	font-size: 1.2em;
+	color: #28304c;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+	line-height: 2em;
+}
+
+p {
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: left;
+	font-size: 1em;
+	color: #28304c;
+	font-weight: normal;
+	font-family: 'Merriweather', serif;
+	line-height: 2em;
+}
+
+ul {
+	margin-left: 30px;
+	text-align: left;
+	font-size: 1em;
+	color: #28304c;
+	font-weight: normal;
+	font-family: 'Merriweather', serif;
+	line-height: 2em;
+}
+
+hr {
+	border: 2px solid #28304c;
+	width: 50%;
+}
+
+a {
+	color: #ee6592;
+	text-decoration: none;
+}
